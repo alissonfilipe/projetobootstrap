@@ -8,6 +8,8 @@
 - `m-auto` --> centralizar
 - `Lorem10` --> lorem de 10 palaras HTML
 - `modal` --> botões para mostrar conteúdo interno
+- `<hr>` --> serve para adicionar um risco
+- `<hr>` --> é uma boa idéia de usar quando for fazer a parte de baixo
 
 # imagens grátis
 
